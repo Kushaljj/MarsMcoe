@@ -85,7 +85,7 @@ nav img{
     cursor: pointer;}
 
 .hero-btn:hover{
-    border: 2px solid #00ffff;
+    border: 2px , 3px,  solid #00ffff;
     background: #00ffff;
     color: #2b007c;
     transition: 1s;}
